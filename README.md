@@ -19,7 +19,7 @@ This calculator can help you compute things like:
 - Economic Growth Rate
 - Real GDP
 - GDP per Capita
-- Investment Ratios (Public, Private, etc.)
+- Investment Ratios 
 
 All using basic formulas from macroeconomics.
 
@@ -31,8 +31,5 @@ I created this project to:
 
 
 ##  How to run it
-1. Make sure you have Python installed.
-2. Download the file `calculator.py`.
-3. Open your terminal and run:
-   ```bash
-   python calculator.py
+1. Download the file 'calculator.py'.
+2. Open your terminal and run:
